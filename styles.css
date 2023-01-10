@@ -1,0 +1,49 @@
+body {
+    background: #BBE1FA;
+    color: #1B262C;
+}
+/*background: linear-gradient(90deg, rgba(1,196,252,1) 70%, rgba(42,249,129,1) 100%)*/
+hr {
+    border-color: #3282B8;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 11px;
+    width: 10%;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+    color: #3282B8;
+    text-align: center;
+    }
+
+img {
+    max-width: 22%;
+    height: auto;
+}
+
+
+
+/****************************CLASS SELECTORS*********************/
+.tabletest {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border-collapse: collapse;
+    width: 67%;
+    tr:hover {background-color:#FF9494};
+
+}
+
+.content {
+    max-width: 67%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+}
+/******************************ID SELECTORS*********************/
